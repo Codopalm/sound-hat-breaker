@@ -44,7 +44,7 @@ To use **Sound Hat Breaker**, simply:
 - **Me (Doom)** – Creator of **Sound Hat Breaker** and **Account Finder**.
 - **Kievsky** – Reminded me that this still exists (thanks for the push!).
 - **Ian** – Reminded me that libraries still exist and work.
-- **Roblox** – For having a game that pushes the boundaries of sound annoyances (and giving me ideas for this project!).
+- **Roblox** – For having a game that is horrible
 
 ### Contributions:
 
