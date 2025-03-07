@@ -35,6 +35,7 @@ To use **Sound Hat Breaker**, simply:
 4. Annoy everyone a 30 mile radius
 
 ## Account Finder
+![Account Finder](https://i.imgur.com/Aw8bV7f.gif)  
 
 **Account Finder** is a separate tool designed to locate and manage user accounts on roblox. Whether you’re trying to recover "lost credentials" or just randomly gen roblox users + ids for no reason at all
 
